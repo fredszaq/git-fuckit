@@ -1,0 +1,2 @@
+#!/bin/sh
+git add -A && git commit -m "`curl whatthecommit.com/index.txt`"
