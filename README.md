@@ -4,11 +4,15 @@
 We also provide a `git fuckthis` command that will only commit the staged changes in case you don't want to fuck it all.
 
 ## Installation
-Simply drop the `git-fuckit` and `git-fuckthis` file somewhere in your path, git will find them on its own ! 
+Simply drop the `git-fuckit` and `git-fuckthis` files somewhere in your path, `git` will find them on its own ! 
 
 You'll need to have curl on your path as well.
 
 There is no dependance between `git-fuckit` and `git-fuckthis` in case you want to only use one of them.
+
+## Usage
+* `git fuckit` to fuck it and commit the whole working directory with a random message.
+* `git fuckthis` to fuck this and only commit the staged changes with a random message.
 
 ## Thanks 
 A big thanks to the folks behind [whatthecommit.com](http://whatthecommit.com), you can take a look at there source code [here](https://github.com/ngerakines/commitment)
