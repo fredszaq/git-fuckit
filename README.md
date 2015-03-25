@@ -1,10 +1,14 @@
 # Git Fuckit !
 `git fuckit` a git command used to commit the current working directory using a message taken from [whatthecommit.com](http://whatthecommit.com). Have some fun by committing your code with silly messages.
 
+We also provide a `git fuckthis` command that will only commit the staged changes in case you don't want to fuck it all.
+
 ## Installation
-Simply drop the git-fuckit file somewhere in your path, git will find it on its own ! 
+Simply drop the `git-fuckit` and `git-fuckthis` file somewhere in your path, git will find them on its own ! 
 
 You'll need to have curl on your path as well.
+
+There is no dependance between `git-fuckit` and `git-fuckthis` in case you want to only use one of them.
 
 ## Thanks 
 A big thanks to the folks behind [whatthecommit.com](http://whatthecommit.com), you can take a look at there source code [here](https://github.com/ngerakines/commitment)
