@@ -15,7 +15,7 @@ There is no dependance between `git-fuckit` and `git-fuckthis` in case you want 
 * `git fuckthis` to fuck this and only commit the staged changes with a random message.
 
 ## Thanks 
-A big thanks to the folks behind [whatthecommit.com](http://whatthecommit.com), you can take a look at there source code [here](https://github.com/ngerakines/commitment)
+A big thanks to the folks behind [whatthecommit.com](http://whatthecommit.com), you can take a look at their source code [here](https://github.com/ngerakines/commitment)
 
 ## Disclaimer
 Use at your own risk, not all colleagues may appreciate the goodness of committing something with a totally irrelevant message. Seriously, don't !
